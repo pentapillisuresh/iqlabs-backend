@@ -10,4 +10,7 @@
 ## Notes
 - Admin routes require `Authorization: Bearer <token>`
 - Uploads saved under `/uploads`
-- Generated PDF reports available under `/reports`
+- Generate PDF reports available under `/reports`
+
+
+
